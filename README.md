@@ -4,7 +4,7 @@
 Dieses Blender-Repository enthält eine leistungsstarke, anpassbare Animation für Energie-Transformationseffekte, die auf beliebige Charaktere angewendet werden können. Die Effekte wurden ursprünglich für den Skelett-Charakter **"Skelzion"** entwickelt, können aber flexibel auf andere Modelle übertragen werden.  
 
 **Vorschau**
-![Animation](pfad/zur/datei.gif)
+![Animation](/Skelzion.gif)
 
 **Features:**  
 ✅ **Universelle Anwendung** – Die Transformationseffekte sind nicht auf "Skelzion" beschränkt, sondern können auf verschiedene Charaktere mit individuellen Einstellungen angewendet werden.  
